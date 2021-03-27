@@ -40,7 +40,7 @@ header .nav {
   	padding: 20px 50px 20px 0;
   	position: fixed;
   	z-index: 4;
-  	background-color: #2E2630;
+  	background-color: #273344;
   	width: 100%;
   	opacity: .8;
 }
@@ -66,7 +66,7 @@ header .nav {
 
 .container .welcome-sec {
 
-	background-color: #2E2630;
+	background-color: #252b2d;
   	color: #FFFFFF;
   	text-align: center;
   	height: 90vh;
